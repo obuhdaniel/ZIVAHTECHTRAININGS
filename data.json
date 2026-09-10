@@ -1,0 +1,42 @@
+{
+  "restaurant": "Naija Taste Hub",
+  "location": "Lagos, Nigeria",
+  "menu": {
+    "Rice Dishes": [
+      { "name": "Jollof Rice", "description": "Spiced tomato rice with chicken", "price": "₦2,500" },
+      { "name": "Fried Rice", "description": "Stir-fried rice with mixed vegetables and beef", "price": "₦2,500" },
+      { "name": "Ofada Rice", "description": "Local brown rice with Ayamase sauce", "price": "₦3,000" },
+      { "name": "Coconut Rice", "description": "Rice cooked in coconut milk with shrimp", "price": "₦2,800" }
+    ],
+    "Soups & Stews": [
+      { "name": "Egusi Soup", "description": "Melon seed soup with spinach and assorted meat", "price": "₦2,000" },
+      { "name": "Ogbono Soup", "description": "Wild mango seed soup with stockfish", "price": "₦2,000" },
+      { "name": "Pepper Soup", "description": "Spicy goat meat broth with spices", "price": "₦2,500" },
+      { "name": "Banga Soup", "description": "Palm fruit soup with catfish", "price": "₦2,800" }
+    ],
+    "Swallows": [
+      { "name": "Pounded Yam", "description": "Smooth pounded yam", "price": "₦500" },
+      { "name": "Eba", "description": "Garri dough", "price": "₦400" },
+      { "name": "Amala", "description": "Yam flour dough", "price": "₦400" },
+      { "name": "Semo", "description": "Semolina dough", "price": "₦400" }
+    ],
+    "Proteins": [
+      { "name": "Suya (Beef Kebab)", "description": "Grilled spiced beef skewers", "price": "₦1,500" },
+      { "name": "Fried Chicken", "description": "Marinated deep-fried chicken", "price": "₦2,000" },
+      { "name": "Grilled Fish", "description": "Whole tilapia with pepper sauce", "price": "₦3,000" },
+      { "name": "Nkwobi", "description": "Spiced cow foot in palm oil sauce", "price": "₦2,500" }
+    ],
+    "Snacks": [
+      { "name": "Puff Puff", "description": "Deep-fried dough balls", "price": "₦300" },
+      { "name": "Akara", "description": "Fried bean cakes", "price": "₦200" },
+      { "name": "Moi Moi", "description": "Steamed bean pudding", "price": "₦300" },
+      { "name": "Spring Rolls", "description": "Crispy vegetable spring rolls", "price": "₦500" }
+    ],
+    "Drinks": [
+      { "name": "Chapman", "description": "Nigerian cocktail with Fanta and Angostura", "price": "₦800" },
+      { "name": "Zobo", "description": "Hibiscus juice with ginger", "price": "₦500" },
+      { "name": "Kunu", "description": "Millet and ginger drink", "price": "₦400" },
+      { "name": "Palm Wine", "description": "Fresh tapped palm wine", "price": "₦600" }
+    ]
+  }
+}
